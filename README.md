@@ -72,5 +72,3 @@ Junção de múltiplas tabelas para obtenção de informações mais completas.
 ## Considerações Finais
 
 O sistema desenvolvido atende aos requisitos propostos no Desafio de Projeto da DIO, demonstrando a aplicação prática de conceitos fundamentais de banco de dados. A estrutura permite fácil expansão, podendo ser adaptada para cenários mais complexos, como controle de estoque de peças e gestão financeira da oficina.
-
----
